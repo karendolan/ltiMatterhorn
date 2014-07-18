@@ -1,0 +1,18 @@
+{
+  "result": {
+    "thumbnail" : "http://dev-matterhorn.dce.harvard.edu/static/engage-player/6ff320ad-de20-4f5e-8c57-fccc3a4bec4f/attachment-5/presenter_trimmed.jpg",
+    "player": "http://dev-matterhorn.dce.harvard.edu/engage/player/watch.html?id=6ff320ad-de20-4f5e-8c57-fccc3a4bec4f",
+    "title": "Intro to test",
+    "presenter": "John Smith",
+    "timeDate": "Wed, Jun 25 2014 - 13:25"
+  },
+  "result": {
+    "thumbnail" : "http://dev-matterhorn.dce.harvard.edu/static/engage-player/533a88cb-7efc-46c8-a8ff-09ca8c32ec75/attachment-5/presenter_trimmed.jpg",
+    "player": "http://dev-matterhorn.dce.harvard.edu/engage/player/watch.html?id=533a88cb-7efc-46c8-a8ff-09ca8c32ec75",
+    "title": "Intro to Pears",
+    "presenter": "Peter Smith",
+    "timeDate": "Wed, Jun 27 2014 - 13:25"
+  }
+}
+
+
